@@ -1,0 +1,4 @@
+http://www.appinventor.org/Sensors2
+
+comunicar bluetooth pc con socket
+https://blog.kevindoran.co/bluetooth-programming-with-python-3/
